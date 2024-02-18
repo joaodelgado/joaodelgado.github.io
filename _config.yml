@@ -87,9 +87,8 @@ content:
       - layout: left
         border: weak
         title: Principal Engineer
-        sub_title: Jumia
+        sub_title: <a href="https://jumia.com">Jumia</a>
         caption: January 2023 - Current
-        link: https://jumia.com
         quote: >
           Vendor platforms & Marketing
         description: |
@@ -102,9 +101,8 @@ content:
       - layout: left
         border: weak
         title: Staff Engineer
-        sub_title: Jumia
+        sub_title: <a href="https://jumia.com">Jumia</a>
         caption: August 2019 - December 2022
-        link: https://jumia.com
         quote: >
           Miscellaneous projects
         description: |
@@ -117,9 +115,8 @@ content:
       - layout: left
         border: weak
         title: Team Leader
-        sub_title: Jumia
+        sub_title: <a href="https://jumia.com">Jumia</a>
         caption: December 2017 - August 2019
-        link: https://jumia.com
         quote: >
           Fulfillment - Order and Warehouse management
         description: |
@@ -132,9 +129,8 @@ content:
       - layout: left
         border: weak
         title: Web developer
-        sub_title: Jumia
+        sub_title: <a href="https://jumia.com">Jumia</a>
         caption: October 2015 - December 2017
-        link: https://jumia.com
         quote: >
           Logistics - Package management
         description: |
@@ -146,9 +142,9 @@ content:
 
       - layout: left
         title: Intern
-        sub_title: Geolink
+        sub_title: <a href="https://www.geolink.pt/">Geolink</a>
         caption: July 2014 - September 2015
-        link: https://www.geolink.pt/
+        # link: https://www.geolink.pt/
         description: | # this will include new lines to allow paragraphs
           Portuguese company developing software for taxi dispatching.
 
