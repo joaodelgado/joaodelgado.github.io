@@ -236,3 +236,9 @@ body {
     display: none !important;
   }
 }
+
+@media not print {
+  .print-only, .print-only * {
+    display: none !important;
+  }
+}
