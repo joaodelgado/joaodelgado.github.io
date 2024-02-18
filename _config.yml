@@ -161,11 +161,11 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Universidade de Ciências da Universidade do Porto
+        title: Master's Degree in Network and Information Systems Engineering
         sub_title: Masters
         caption: 2010-2015
         quote: >
-          <a href="https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2023&pv_curso_id=870">Master's Degree in Network and Information Systems Engineering</a>
+          <a href="https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2023&pv_curso_id=870">Universidade de Ciências da Universidade do Porto</a>
         # description: | # this will include new lines to allow paragraphs
   - title: When I'm not working
     layout: text
