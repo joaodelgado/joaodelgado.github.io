@@ -120,7 +120,7 @@ content:
         quote: >
           Fulfillment - Order and Warehouse management
         description: |
-          Team leader of a team of around 7 people, responsible warehouse and order management systems in a multitude of technology stacks.
+          Led a team of around 7 people, responsible warehouse and order management systems in a multitude of technology stacks.
 
           In this project I inherited a monolith service in **PHP** that was being rewritten into two separate sets of microservices. One using the **Play Framework**, another using **Spring boot**.
 
