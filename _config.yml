@@ -92,10 +92,17 @@ content:
         quote: >
           Vendor platforms & Marketing
         description: |
-          Working as a principal engineer for Jumia's vendor platforms, involving mainly catalog and order management.<br>
-          Using mostly with **Spring Boot**, **Postgres**, **ElasticSearch** and **Kafka**.
+          Working as a principal engineer for Jumia's vendor platforms, together with the help of 3 development teams.<br>
+          It involves mainly catalog and order management and the main tech stack is **Spring Boot**, **Postgres**, **ElasticSearch** and **Kafka**.
 
-          More recently, I expanded my scope to our marketing services, handling marketing communications and monetization services.
+          The focus of the project is to modernize Jumia's vendor platform from a legacy **PHP** application into more scalable **Java** microservices.
+          With the main challenge being it's overall scale:
+            - large system with almost 15 years of historical data,
+            - tens of thousands of integrated vendors,
+            - hundreds of millions of products,
+            - across more than 10 ventures.
+
+          More recently, I've expanded my scope to Jumia's marketing services, handling marketing communications and monetization services.
           Using **Go** with **Gin** and **GORM**, and **Kubernetes** for all deployments.
 
       - layout: left
