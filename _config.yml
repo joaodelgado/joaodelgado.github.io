@@ -108,9 +108,18 @@ content:
         description: |
           Focusing on a individual contributor technical role, I integrated a team which was responsible for some miscellaneous, central projects in Jumia, all using **Spring Boot**.
 
-          The project I would highlight, would be the Search project, that handles all the search and navigation traffic across all the Jumia websites.
+          Here I was the technical leader for services handling:
+            - Authentication and authorization for all internal tools
+            - Transactional communications
 
-          Here I had the opportunity of working on a performance critical service on top of **ElasticSearch** and **Kafka**.
+          I also was involved from the ground up on projects responsible for:
+            - General document printing for transactional systems (e.g. shipping labels, invoices, etc)
+            - Integration with local tax authorities in Uganda and Egypt
+
+          The project I would highlight, and where I had my main contribution, was the Search Project.
+          This is a availability and performance critical service that handles all the search and navigation traffic across the Jumia websites.
+
+          Here I had the opportunity of working on top of **ElasticSearch** and **Kafka**, with a big focus on metrics, AB testing and data driven development.
 
       - layout: left
         border: weak
