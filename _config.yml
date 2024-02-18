@@ -145,6 +145,7 @@ content:
         sub_title: <a href="https://www.geolink.pt/">Geolink</a>
         caption: July 2014 - September 2015
         # link: https://www.geolink.pt/
+        quote: Invoicing system
         description: | # this will include new lines to allow paragraphs
           Portuguese company developing software for taxi dispatching.
 
