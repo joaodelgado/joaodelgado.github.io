@@ -112,20 +112,18 @@ content:
         quote: >
           Miscellaneous projects
         description: |
-          Focusing on a individual contributor technical role, I integrated a team which was responsible for some miscellaneous, central projects in Jumia, all using **Spring Boot**.
-
-          Here I was the technical leader for services handling:
+          Integrated a team responsible for various major projects in Jumia, all using **Spring Boot**. I was the technical leader for services handling:
             - Authentication and authorization for all internal tools
             - Transactional communications
 
-          I also was involved from the ground up on projects responsible for:
+          I was also involved from the ground up in projects responsible for:
             - General document printing for transactional systems (e.g. shipping labels, invoices, etc)
             - Integration with local tax authorities in Uganda and Egypt
 
-          The project I would highlight, and where I had my main contribution, was the Search Project.
-          This is a availability and performance critical service that handles all the search and navigation traffic across the Jumia websites.
+          I highlight the Search Project, to which I made my main contribution.
+          This is an availability and performance-critical service that handles all the search and navigation traffic across the Jumia websites.
 
-          Here I had the opportunity of working on top of **ElasticSearch** and **Kafka**, with a big focus on metrics, AB testing and data driven development.
+          Here I had the opportunity to work on top of **ElasticSearch** and **Kafka**, with a big focus on metrics, AB testing, and data-driven development.
 
       - layout: left
         border: weak
