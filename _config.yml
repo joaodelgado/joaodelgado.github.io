@@ -54,10 +54,10 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello!
 
-  My name is João Delgado and I'm a web developer with 8 years of experience, specialized in backend services.<br>
-  I'm currently working for an African E-commerce company called [Jumia](https://jumia.com) as a Principal Engineer, and I'm interested in all things performance related.
+  I'm a web developer with 8 years of experience, specializing in backend services.
+  The technologies I have the most experience with are Java, Spring, Postgres, ElasticSearch, and Kafka.
 
-  The technologies I have most experience with are: **Java**, **Spring**, **Postgres**, **ElasticSearch**, **Kafka**.
+  I'm interested in all things performance-related.
 
 content:
   # - title: Projects # Title for the section
