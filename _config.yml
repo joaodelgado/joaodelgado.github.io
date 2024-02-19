@@ -159,18 +159,16 @@ content:
         # link: https://www.geolink.pt/
         quote: Invoicing system
         description: | # this will include new lines to allow paragraphs
-          Portuguese company developing software for taxi dispatching.
+          Worked as an intern for a Portuguese company developing software for taxi dispatching, while I was writing my master's thesis.
 
-          Worked as an intern during the year I was writing my master thesis.
-          During this year, I worked on an invoicing system to be used for issuing invoices for taxi rides and integrating them with portuguese tax authorities.
-
-          This was my first interaction with web development (in **Python**), and started to get some experience with web frameworks and ORMs (using **Flask** **SQLAlchemy**).
+          During this year, I worked on an invoicing system to be used for issuing invoices for taxi rides and integrating them with Portuguese tax authorities.
+          This was my first interaction with web development (in **Python**) and started to get some experience with web frameworks and ORMs (using **Flask** and **SQLAlchemy**).
 
   - title: Education
     layout: list
     content:
       - layout: top-middle
-        title: <a href="https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2023&pv_curso_id=870">Master's Degree in Network and Information Systems Engineering</a>
+        title: <a href="https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2023&pv_curso_id=870">Master's in Network and Information Systems Engineering</a>
         sub_title: Universidade de Ciências da Universidade do Porto
         caption: 2010-2015
   - title: When I'm not working
