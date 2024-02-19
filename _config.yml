@@ -147,11 +147,10 @@ content:
         quote: >
           Logistics - Package management
         description: |
-          Worked as a fullstack developer for a logistics system that managed all package deliveries in Jumia.
+          Worked as a full-stack developer for a logistics system that managed all package deliveries in Jumia.
+          The goal of this project was to revamp the way Jumia handled package and delivery management, in **Java**.
 
-          The main goal of this project was to revamp the way Jumia handled package and delivery management, in **Java**.
-
-          This project was when I first had real contact with **Spring**, learned about message brokers with **RabbitMQ**, and SQL databases in production with **PostgreSQL**.
+          I had my first real contact with **Spring**, learned about message brokers with **RabbitMQ**, and SQL databases in production with **PostgreSQL**.
 
       - layout: left
         title: Intern
