@@ -171,13 +171,17 @@ content:
         title: <a href="https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2023&pv_curso_id=870">Master's in Network and Information Systems Engineering</a>
         sub_title: Universidade de Ciências da Universidade do Porto
         caption: 2010-2015
+
   - title: When I'm not working
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside work, I love to travel. Currently on a mission to visit 40 different countries before I turn 40.<br>
-      I'm also interested in photography, climbing, orienteering and I've also been recently introduced to the world of wine.
+      Outside work, I love to travel.
+      I'm currently on a mission to visit 40 different countries before I turn 40.
+      I'm also enthusiastic about photography, climbing, and orienteering.
+      And I have recently been introduced to the fascinating world of wine.
 
-      While I'm still sat at my desk, I like to explore some different programming languages for small toy projects (although recently I fell in love with Rust and it's been hard to let it go).
+      While I'm still sitting at my desk, I like to explore some different programming languages for small toy projects.
+      Recently, I fell in love with Rust and it's been hard to let it go.
 
 # Footer
 # footer_show_references: true
