@@ -55,9 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hello!
 
   I'm a web developer with 8 years of experience, specializing in backend services.
-  The technologies I have the most experience with are **Java**, **Spring**, **Postgres**, **ElasticSearch**, and **Kafka**.
 
-  I'm interested in all things performance-related.
+  The technologies I have the most experience with are **Java**, **Spring**, **Postgres**, **ElasticSearch**, and **Kafka**.
 
 content:
   # - title: Projects # Title for the section
@@ -133,7 +132,7 @@ content:
         quote: >
           Fulfillment - Order and Warehouse management
         description: |
-          Led a team of around 7 people, responsible for warehouse and order management systems in a multitude of technology stacks.
+          Led a team of around seven people, responsible for warehouse and order management systems in a multitude of technology stacks.
 
           I inherited a monolith service in **PHP** and rewrote them into two separate sets of microservices: one using the **Play Framework**, and another using **Spring Boot**.
 
