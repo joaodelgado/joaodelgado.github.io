@@ -134,7 +134,7 @@ content:
         description: |
           Led a team of around seven people, responsible for warehouse and order management systems in a multitude of technology stacks.
 
-          I inherited a monolith service in **PHP** that were being rewritten them into two separate sets of microservices: one using the **Play Framework**, and another using **Spring Boot**.
+          I inherited a monolith service in **PHP** that was being rewritten into two separate sets of microservices: one using the **Play Framework**, and another using **Spring Boot**.
 
           I also had the opportunity to interact with other databases like **MariaDB** and **MongoDB** and started using **Docker** for deployments and CI builds.
 
