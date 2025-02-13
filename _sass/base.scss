@@ -235,6 +235,14 @@ body {
   .no-print, .no-print * {
     display: none !important;
   }
+
+  .page-break {
+    break-after: page;
+  }
+
+  .page {
+    break-inside: avoid;
+  }
 }
 
 @media not print {

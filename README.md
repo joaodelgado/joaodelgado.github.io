@@ -6,10 +6,11 @@ My resume, heavily based on the great [modern-resume-theme](https://github.com/s
 
 ## Running locally
 
-Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
+Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally.
+You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
 
 1. Clone your resume repository locally *(if you haven't already)*
-2. `cd [your-repository-name]`
+2. `cd joaodelgado.github.io`
 3. `bundle install`
 4. `bundle exec jekyll serve`
 5. Open your browser to `http://localhost:4000`
@@ -28,7 +29,4 @@ If you have docker installed you can simply run `docker-compose up` to launch th
 
 ### PDF
 
-Example command to export to PDF
-```
-wkhtmltopdf --print-media-type localhost:4000 cv.pdf
-```
+Currently I'm using Firefox's print to PDF to generate the PDF version of my CV.

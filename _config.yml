@@ -84,10 +84,27 @@ content:
     content:
 
       - layout: left
+        title: Staff Engineer
+        sub_title: <a href="https://five9.com">Five9</a>
+        caption: December 2024 - Present
+        quote: >
+          Work Force Optimization
+        description: |
+          Starting a brand new adventure, in a new business context - Contact Centers.
+
+          Currently focusing on call-recording related services, where the main challenges are:
+            - Ensuring a reliable and resilient recording environment
+            - Modernization of a legacy application to an event-based architecture, running on a cloud environment.
+
+          The tech stack includes mainly:
+            - **Java** with **SpringBoot**
+            - Both on-premise and cloud deployments (using **GCP** and **Kubernetes**)
+
+      - layout: left
         border: weak
         title: Principal Engineer
         sub_title: <a href="https://jumia.com">Jumia</a>
-        caption: January 2023 - Present
+        caption: January 2023 - December 2024
         quote: >
           Vendor platforms & Marketing
         description: |
@@ -100,8 +117,8 @@ content:
             - hundreds of millions of products,
             - across more than 10 ventures.
 
-          More recently, I've expanded my scope to Jumia's marketing services, handling marketing communications and monetization services.
-          I'm using **Go** with **Gin** and **GORM**, and **Kubernetes** for all deployments.
+          For the last few months I expanded my scope to Jumia's marketing services, responsible mainly for handling marketing communications.
+          This set of services was using **Go** with **Gin** and **GORM**, and **Kubernetes** for all deployments.
 
       - layout: left
         border: weak
@@ -152,6 +169,7 @@ content:
           I had my first real contact with **Spring**, learned about message brokers with **RabbitMQ**, and SQL databases in production with **PostgreSQL**.
 
       - layout: left
+        border: weak
         title: Intern
         sub_title: <a href="https://www.geolink.pt/">Geolink</a>
         caption: July 2014 - September 2015
@@ -162,6 +180,7 @@ content:
 
           During this year, I worked on an invoicing system to be used for issuing invoices for taxi rides and integrating them with Portuguese tax authorities.
           This was my first interaction with web development (in **Python**) and started to get some experience with web frameworks and ORMs (using **Flask** and **SQLAlchemy**).
+          <div class="print-only page-break"></div>
 
   - title: Education
     layout: list
@@ -177,7 +196,8 @@ content:
       Outside work, I love to travel.
       I'm currently on a mission to visit 40 different countries before I turn 40.
       I'm also enthusiastic about photography, climbing, and orienteering.
-      And I have recently been introduced to the fascinating world of wine.
+
+      I've also been recently introduced to the fascinating worlds of coffee and wine.
 
       While I'm still sitting at my desk, I like to explore some different programming languages for small toy projects.
       Recently, I fell in love with Rust and it's been hard to let it go.
