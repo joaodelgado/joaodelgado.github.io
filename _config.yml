@@ -54,9 +54,10 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello!
 
-  I'm a web developer with 8 years of experience, specializing in backend services.
+  I'm a web developer with 9+ years of experience, specializing in backend services.
 
-  The technologies I have the most experience with are **Java**, **Spring**, **Postgres**, **ElasticSearch**, and **Kafka**.
+  The technologies I have the most experience with are **Java**, **Spring**, **Postgres**, **ElasticSearch**, and **Kafka**.  
+  Currently learning to love **golang**.
 
 content:
   # - title: Projects # Title for the section
@@ -85,15 +86,29 @@ content:
 
       - layout: left
         title: Staff Engineer
+        sub_title: <a href="https://wellhub.com/">Wellhub</a>
+        caption: April 2025 - Present
+        quote: >
+          Client Management
+        description: |
+          Starting a brand new adventure, in a business context that I'm passionate about - Wellness.
+
+          Currently focusing on core services responsible for all the business logic related with company integration.
+
+          Changed the tech stack to **Go**, while still working in the familiar world of microservices (powered by **Kubernetes**).
+
+      - layout: left
+        border: weak
+        title: Staff Engineer
         sub_title: <a href="https://five9.com">Five9</a>
-        caption: December 2024 - Present
+        caption: December 2024 - March 2025
         quote: >
           Work Force Optimization
         description: |
-          Starting a brand new adventure, in a new business context - Contact Centers.
+          Short but sweet experience where I learnt a lot about Contact Centers.
 
-          Currently focusing on call-recording related services, where the main challenges are:
-            - Ensuring a reliable and resilient recording environment
+          Focusing on call-recording related services, where the main challenges are:
+            - Ensuring a reliable and resilient recording environment, integrating with 3rd party services.
             - Modernization of a legacy application to an event-based architecture, running on a cloud environment.
 
           The tech stack includes mainly:
@@ -174,7 +189,7 @@ content:
         sub_title: <a href="https://www.geolink.pt/">Geolink</a>
         caption: July 2014 - September 2015
         # link: https://www.geolink.pt/
-        quote: Invoicing system
+        quote: Invoicing System
         description: | # this will include new lines to allow paragraphs
           Worked as an intern for a Portuguese company developing software for taxi dispatching, while I was writing my master's thesis.
 
