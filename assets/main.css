@@ -648,7 +648,7 @@ ul.icons a {
 
   .layout-left,
   .layout-right {
-    flex-direction: column
+    flex-direction: column !important
   }
 }
 
